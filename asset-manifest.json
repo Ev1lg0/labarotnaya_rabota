@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/laboratornaya_rabota/static/css/main.4578f540.css",
-    "main.js": "/laboratornaya_rabota/static/js/main.22bb5b02.js",
-    "index.html": "/laboratornaya_rabota/index.html",
-    "main.4578f540.css.map": "/laboratornaya_rabota/static/css/main.4578f540.css.map",
-    "main.22bb5b02.js.map": "/laboratornaya_rabota/static/js/main.22bb5b02.js.map"
+    "main.css": "/labarotnaya_rabota/static/css/main.4578f540.css",
+    "main.js": "/labarotnaya_rabota/static/js/main.22bb5b02.js",
+    "index.html": "/labarotnaya_rabota/index.html",
+    "main.4578f540.css.map": "/labarotnaya_rabota/static/css/main.4578f540.css.map",
+    "main.22bb5b02.js.map": "/labarotnaya_rabota/static/js/main.22bb5b02.js.map"
   },
   "entrypoints": [
     "static/css/main.4578f540.css",
