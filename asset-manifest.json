@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laboratornaya_rabota/static/css/main.4578f540.css",
+    "main.js": "/laboratornaya_rabota/static/js/main.338da77b.js",
+    "index.html": "/laboratornaya_rabota/index.html",
+    "main.4578f540.css.map": "/laboratornaya_rabota/static/css/main.4578f540.css.map",
+    "main.338da77b.js.map": "/laboratornaya_rabota/static/js/main.338da77b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4578f540.css",
+    "static/js/main.338da77b.js"
+  ]
+}
